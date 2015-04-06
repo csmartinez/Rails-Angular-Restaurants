@@ -8,8 +8,9 @@
 
 Restaurant.create([
   { name: "The French Laundry", description: "Sacre Bleu! Snails!" },
-  { name: "Chez Panisse", description:  },
-  { name: "Bouchon", description:  },
-  { name: "Noma", description:  },
-  { name: "Taco Bell", description:  },
+  { name: "Chez Panisse", description: "Delicious" },
+  { name: "Bouchon", description: "We sell food!" },
+  { name: "Noma", description: "Tasty" },
+  { name: "Taco Bell", description: "Cheap and greasy, just how you like it" },
+  { name: "Mo Pizza!", description: "Mo toppings" }
 ])
