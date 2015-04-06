@@ -4,5 +4,6 @@
     $scope.restaurants = data
   )
 
-  $scope.viewR
+  $scope.viewRestaurant = (id) ->
+    $location.url "/restaurants/#{id}"
 ]

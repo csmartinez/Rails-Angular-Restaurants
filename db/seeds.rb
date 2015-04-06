@@ -7,9 +7,9 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 Restaurant.create([
-  { name: "The French Laundry" },
-  { name: "Chez Panisse" },
-  { name: "Bouchon" },
-  { name: "Noma" },
-  { name: "Taco Bell" },
+  { name: "The French Laundry", description: "Sacre Bleu! Snails!" },
+  { name: "Chez Panisse", description:  },
+  { name: "Bouchon", description:  },
+  { name: "Noma", description:  },
+  { name: "Taco Bell", description:  },
 ])
